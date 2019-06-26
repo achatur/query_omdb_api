@@ -21,7 +21,7 @@ class OMDB:
 
         :return: text api key
         """
-        return '6e44e353'
+        return ''
 
 
 if "__main__" in __name__:
